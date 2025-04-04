@@ -2,3 +2,4 @@ node_modules
 .vscode
 output
 .DS_Store
+.keys.txt
